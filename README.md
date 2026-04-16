@@ -1,3 +1,7 @@
+> **This repository has been archived.** This tool has been merged into [kscott/get-clear](https://github.com/kscott/get-clear). Issues, history, and active development have moved there.
+
+---
+
 # calendar-cli
 
 A command-line tool that lets Claude read and query your Apple Calendar — just by asking.
